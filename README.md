@@ -1,6 +1,6 @@
 # merge-together
 
-leo 
+kyle 
 hurry
-up 
+up
 please
