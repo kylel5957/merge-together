@@ -1,6 +1,6 @@
 # merge-together
 
-leo
-hurry
+kyle
+eat
 up
-now!
+please
