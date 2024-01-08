@@ -1,6 +1,6 @@
 # merge-together
 
-leo 
+leo
 hurry
-up 
-please
+up
+now!
